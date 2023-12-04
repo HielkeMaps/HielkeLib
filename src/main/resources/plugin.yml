@@ -1,7 +1,7 @@
 name: HielkeAPI
-version: '${version}'
+version: '${project.version}'
 main: io.github.hielkemaps.hielkeapi.HielkeAPI
 api-version: 1.20
 prefix: "[HielkeAPI]"
 authors: [ Hielke ]
-description: API for Hielke Maps Network
+description: Blablabla
