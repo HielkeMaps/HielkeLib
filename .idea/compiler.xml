@@ -7,15 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HielkeAPI" />
-        <module name="DoubleJump" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CountDownDisplay" target="1.8" />
-      <module name="CountDownFloatingText" target="1.8" />
-      <module name="LobbyPlugin" target="1.8" />
-      <module name="ParkourPassAddon" target="1.8" />
-      <module name="SpeedrunLeaderboard" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

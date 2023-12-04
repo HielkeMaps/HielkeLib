@@ -1,5 +1,5 @@
 name: HielkeAPI
 main: io.github.hielkemaps.api.Main
-version: 1.0.0
+version: 0.0.1
 author: Hielke
 api-version: '1.20'
