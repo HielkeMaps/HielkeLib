@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountDownFloatingText.iml" filepath="$PROJECT_DIR$/CountDownFloatingText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkourPassAddon.iml" filepath="$PROJECT_DIR$/ParkourPassAddon.iml" />
+    </modules>
+  </component>
+</project>

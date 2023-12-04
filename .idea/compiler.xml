@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HielkeAPI" />
+        <module name="DoubleJump" />
+        <module name="ParkourPassAddon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CountDownDisplay" target="1.8" />
+      <module name="CountDownFloatingText" target="1.8" />
+      <module name="LobbyPlugin" target="1.8" />
+      <module name="ParkourPassAddon" target="1.8" />
+      <module name="SpeedrunLeaderboard" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
