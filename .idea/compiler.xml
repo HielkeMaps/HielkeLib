@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HielkeAPI" />
         <module name="DoubleJump" />
-        <module name="ParkourPassAddon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
