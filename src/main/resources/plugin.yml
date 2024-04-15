@@ -1,7 +1,7 @@
 name: HielkeAPI
 version: '${project.version}'
-main: io.github.hielkemaps.hielkeapi.HielkeAPI
+main: io.github.hielkemaps.hielkelib.HielkeLib
 api-version: 1.20
-prefix: "[HielkeAPI]"
+prefix: "[HielkeLib]"
 authors: [ Hielke ]
 description: Blablabla
